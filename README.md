@@ -1,4 +1,4 @@
-# Catilu_TYN
+# AutoRepliesForFacebook
 Hello and thank you for reading me.
 
 In this package: ActivitiesCostum_SentimentFinder.1.0.1.nupkg you'll find a custom actvity we made, that is taking text as input, and returns a double value between -1 and 1.
@@ -7,7 +7,7 @@ In this package: ActivitiesCostum_SentimentFinder.1.0.1.nupkg you'll find a cust
 You'll also need to install "Vader Sharp" in order for SentimentFinder to function.
 
 
-Catilu_TYN.1.0.7.nupkg is the bomb. This little guy will answer all the comments from your page, based on the sentiment they transmit.
+AutoRepliesForFacebook.nupkg is the bomb. This little guy will answer all the comments from your page, based on the sentiment they transmit.
 
 The name of your facebook page and the token from facebook developer app are assets that you can customize.
 
